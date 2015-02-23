@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "bunyan": "^1.0.1",
-    "chalk": "^0.5.1",
+    "chalk": "^1.0.0",
     "cli-table": "^0.3.0",
     "commander": "~2.3.0",
     "faker": "^1.1.0",
